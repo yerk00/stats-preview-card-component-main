@@ -1,0 +1,98 @@
+body{
+    display: flex;
+    height: 100vh;
+    align-items: center;
+}
+.bussines{
+    width: 82%;
+    height: 70% ;
+    border-radius: 20px;
+    align-items: center;
+}
+
+.bussines-description h2{
+    width: 80%;
+    font-size: 35px;
+    font-weight: 700;
+    line-height: normal;
+    padding: 30px;
+    padding-bottom: 20px;
+    text-align: justify;   
+    padding-left: 72px;
+}
+.bussines-description p{
+    width: 75%;
+    padding-left: 75px;
+    padding-right: 15px;
+    margin: 0;
+    text-align: justify;
+}
+.bussines picture{
+    position: relative;
+    width: 50%;
+    height: 100%;
+    float: right;
+    display: flex;
+}
+.bussines picture img{
+    width: 100%;
+    height: 100%;
+}
+.bussines picture img{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: right;
+}
+.bussines-description{
+    padding: -20px ;
+    width: 50%;
+    height: 90vh;
+    float: left;
+    flex-direction: column;
+    
+}
+.bussines-description-sub{
+    padding-top: 20px;
+    width: 100%;
+    float: right;
+    display: flex;
+    flex-direction: row;
+}
+.bussines-description h3{
+    width: 20%;
+    padding-left: 66px;
+    padding-right: 40px;
+    padding-top: 40px;
+    margin: 0;
+    text-align: justify;
+    float: left;
+    
+    
+}
+.bussines-description h4{
+    
+    width: 20%;
+    padding-left: 0;
+    padding-right: 40px;
+    padding-top: 40px;
+    margin: 0;
+    text-align: justify;
+    float: left;
+    
+}
+
+.bussines-description h5{
+    width: 20%;
+    padding-left: 0;
+    padding-right: 40px;
+    padding-top: 40px;
+    margin: 0;
+    text-align: justify;
+    float: left;
+    
+    
+}
+    
+
+
